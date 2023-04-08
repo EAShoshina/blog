@@ -47,15 +47,15 @@ sections:
       title: Skills
       items:
         - name: Music
-          description: 95%
-          icon: waveform-lines
-          icon_pack: fab
+          description: 90%
+          icon: microphone
+          icon_pack: fas
         - name: Coding
-          description: 50% 
-          icon: laptop-binary
+          description: 50%
+          icon: code
           icon_pack: fas
         - name: Photography
-          description: 65%
+          description: 70%
           icon: camera-retro
           icon_pack: fas
   - block: experience
@@ -71,16 +71,17 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Российский Университет Дружбы Народов
-          company: 
+          company: РУДН
           company_url: ''
-          company_logo: org-gc
+          company_logo: 
           location: Москва, Россия
           date_start: '2022-09-01'
           date_end: ''
           description: |2-
               Статус:
 
-              * Студент 
+              * Студент
+        
     design:
       columns: '2'
   - block: accomplishments
@@ -98,12 +99,14 @@ sections:
       items:
         - certificate_url: https://konkurs.sochisirius.ru/
           date_end: ''
-          date_start: '2022-03'
+          date_start: '2022-03-15'
           description: ''
           organization: Образовательный центр «Сириус»
           organization_url: https://konkurs.sochisirius.ru/
-          title: Всероссийский конкурс "Большие вызовы".
+          title:  Всероссийский конкурс "Большие вызовы"
           url: ''
+        
+          
     design:
       columns: '2'
   - block: collection
