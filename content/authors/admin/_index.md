@@ -41,29 +41,25 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: envelope
+  - icon: e
     icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    display:
-      header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+    link: https://elibrary.ru/defaultx.asp 
+  - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://orcid.org/my-orcid?orcid=0009-0002-0574-8766 
+  - icon: a
+    icon_pack: fas
+    link: https://independent.academia.edu/ЕвгенияШошина 
   - icon: github
     icon_pack: fab
     link: https://github.com/EAShoshina
-  - icon: linkedin
+  - icon: youtube
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.youtube.com/channel/UCENBzml932aj-UHkmM16g3w 
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
-
+  
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
 
@@ -71,5 +67,5 @@ email: ''
 highlight_name: true
 ---
 
-Евгения Шошина - студентка РУДН. Обучаюсь на направлении "Компьютерные и информационные науки" (Факультет Физико-математических и естественных наук). Являюсь членом Студенческого Комитета (Культурно-массовое направление).
+Обучаюсь на направлении "Компьютерные и информационные науки" (Факультет Физико-математических и естественных наук). Являюсь членом Студенческого Комитета (Культурно-массовое направление).
 {style="text-align: justify;"}
